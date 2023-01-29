@@ -357,3 +357,10 @@ body::-webkit-scrollbar {
   background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/acf98c4b34fbe70e58eb426cde6ddc8ed7c64b1d.webp)
     center / cover;
 }
+
+@media only screen and (min-width: 62.5em)
+body {
+    max-width: 984px;
+    padding: 50px 80px;
+    margin: 50px auto 30px auto;
+ }
