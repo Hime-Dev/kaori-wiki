@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kaori-wiki/static/css/main.7341a718.css",
+    "main.css": "/kaori-wiki/static/css/main.790758f5.css",
     "main.js": "/kaori-wiki/static/js/main.040e44b3.js",
     "index.html": "/kaori-wiki/index.html",
-    "main.7341a718.css.map": "/kaori-wiki/static/css/main.7341a718.css.map",
+    "main.790758f5.css.map": "/kaori-wiki/static/css/main.790758f5.css.map",
     "main.040e44b3.js.map": "/kaori-wiki/static/js/main.040e44b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7341a718.css",
+    "static/css/main.790758f5.css",
     "static/js/main.040e44b3.js"
   ]
 }
