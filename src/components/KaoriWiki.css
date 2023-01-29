@@ -1,13 +1,8 @@
-*{
-	display: flex;
-	justify-content: center;
-}
 body {
   background-color: #080808;
   background-repeat: no-repeat;
   background-size: cover;
-  display: flex;
-  justify-content: center;
+  display: block;
   text-align: -webkit-center;
   -ms-overflow-style: none;
   scrollbar-width: none;
