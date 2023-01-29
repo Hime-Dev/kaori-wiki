@@ -1,0 +1,10 @@
+.dropdown-button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.dropdown-wrapper {
+  position: absolute;
+  transition-property: all;
+  opacity: 0;
+}

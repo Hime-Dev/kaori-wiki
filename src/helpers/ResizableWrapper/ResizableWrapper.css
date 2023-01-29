@@ -1,0 +1,39 @@
+.parent-container {
+  position: relative;
+  width: fit-content;
+  margin-bottom: 125px;
+}
+
+.text-parent-container {
+  display: inline-flex;
+  font-family: Inter;
+  color: white;
+  line-height: normal;
+  text-align: left;
+  font-weight: 400;
+}
+
+.frame-48095822-frame-48095823x {
+  box-sizing: border-box;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: black;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.text-style {
+  white-space: nowrap;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+}

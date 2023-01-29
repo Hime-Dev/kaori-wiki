@@ -1,0 +1,37 @@
+.made-with-firejet-made-with-firejet {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  height: 51px;
+  box-sizing: border-box;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background-color: rgba(31, 41, 55, 1);
+  gap: 10px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 7px;
+  padding: 10px;
+  font-family: Inter;
+  color: rgba(242, 242, 242, 1);
+  line-height: normal;
+  text-align: center;
+  font-weight: 500;
+  cursor: pointer;
+  transition: filter 0.15s ease-in;
+  text-decoration: none;
+}
+
+.made-with-firejet-made-with-firejet:hover {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.7));
+}
+
+.made-with-firejet-text {
+  font-size: 20px;
+  letter-spacing: -0.025em;
+  margin: 0px;
+}
+
+.firejet-logo-icon {
+  width: 25px;
+  height: 43px;
+}

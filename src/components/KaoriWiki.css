@@ -1,0 +1,359 @@
+body {
+  background-color: #080808;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  text-align: -webkit-center;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  box-sizing: border-box;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.kaori-wiki-kaori-wiki {
+  width: 1895px;
+  height: 1931px;
+  position: relative;
+  overflow: clip;
+  color: white;
+}
+
+.kaori-wiki-bg {
+  width: 1895px;
+  height: 1931px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background-color: rgba(8, 8, 8, 1);
+}
+
+.kaori-wiki-layout-3 {
+  font-family: Qwigley;
+  text-align: right;
+  font-weight: 400;
+}
+
+.kaori-wiki-kaori-sonsuza-kadar {
+  left: 1586px;
+  top: 1878px;
+  position: absolute;
+  font-size: 40px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-pngwing-3x {
+  rotate: 180deg;
+  transform-origin: top left;
+  transform: scaleY(-1);
+  width: 1374px;
+  height: 802px;
+  left: 1132px;
+  top: 1055px;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/969cf18473bd04b6c84d6ac4c0065b2d0259b3fe.webp)
+    center / cover;
+}
+
+.kaori-wiki-pngwing-2x {
+  rotate: 180deg;
+  transform-origin: top left;
+  transform: scaleY(-1);
+  width: 1379px;
+  height: 770px;
+  left: 1134px;
+  top: 1063px;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/acf98c4b34fbe70e58eb426cde6ddc8ed7c64b1d.webp)
+    center / cover;
+}
+
+.kaori-wiki-kaori {
+  width: 892px;
+  height: 1142.35px;
+  position: absolute;
+  left: 891px;
+  top: 527px;
+}
+
+.kaori-wiki-ellipse-11x {
+  rotate: 149.53deg;
+  transform-origin: top left;
+  transform: scaleY(-1) matrix(1, 0, -0.486, 0.874, 0, 0);
+  width: 242.90347290039062px;
+  box-sizing: border-box;
+  left: -58.78%;
+  right: 131.55%;
+  top: 78.43%;
+  bottom: 0.3%;
+  position: absolute;
+  background-color: rgba(56, 56, 56, 0.26);
+  border-radius: 9999px;
+}
+
+.kaori-wiki-oldurecegim-1x {
+  rotate: 180deg;
+  transform-origin: top left;
+  transform: scaleY(-1);
+  width: 892px;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 4.32%;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/c79684ca1c44122f16fddc4b037e8d8ad9438bca.webp)
+    center / cover;
+}
+
+.kaori-wiki-resimler {
+  width: 644px;
+  height: 225px;
+  position: absolute;
+  left: 1065px;
+  top: 293px;
+}
+
+.kaori-wiki-component {
+  width: 144px;
+  box-sizing: border-box;
+  left: 51.86%;
+  right: 25.78%;
+  top: 0.44%;
+  bottom: 0%;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/0c13f89d5d579b685c0d90dc4ca62ed3c9a27754.webp)
+    center / cover;
+  border-radius: 10px;
+}
+
+.kaori-wiki-component-1 {
+  width: 144px;
+  box-sizing: border-box;
+  left: 77.64%;
+  right: 0%;
+  top: 0.44%;
+  bottom: 0%;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/7243dbb0f782e1497c06f14d088b254d6997602f.webp)
+    center / cover;
+  border-radius: 10px;
+}
+
+.kaori-wiki-component-2 {
+  width: 144.15841674804688px;
+  box-sizing: border-box;
+  left: 26.09%;
+  right: 51.53%;
+  top: 0.44%;
+  bottom: 0%;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/ff594c67b30bb3bc926e020000961fbd239ad599.webp)
+    center / cover;
+  border-radius: 10px;
+}
+
+.kaori-wiki-component-3 {
+  width: 144px;
+  box-sizing: border-box;
+  left: 0.31%;
+  right: 77.33%;
+  top: 0.44%;
+  bottom: 0%;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/69fe90250e923a5a314704956d86031e0e215881.webp)
+    center / cover;
+  border-radius: 10px;
+}
+
+.kaori-wiki-filtre {
+  width: 644px;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 20.89%;
+  position: absolute;
+  background-color: rgba(23, 23, 23, 0.26);
+}
+
+.kaori-wiki-layout-8 {
+  font-family: Qwitcher Grypen;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kaori-wiki-hiroko {
+  height: 56px;
+  width: 126px;
+  left: 1574px;
+  top: 235px;
+  position: absolute;
+  font-size: 45px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-layout-9 {
+  font-family: Qwitcher Grypen;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kaori-wiki-watari {
+  height: 56px;
+  width: 126px;
+  left: 1408px;
+  top: 235px;
+  position: absolute;
+  font-size: 45px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-layout-10 {
+  font-family: Qwitcher Grypen;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kaori-wiki-kousei {
+  height: 56px;
+  width: 126px;
+  left: 1242px;
+  top: 235px;
+  position: absolute;
+  font-size: 45px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-layout-11 {
+  font-family: Qwitcher Grypen;
+  text-align: center;
+  font-weight: 700;
+}
+
+.kaori-wiki-tsubaki {
+  height: 56px;
+  width: 126px;
+  left: 1076px;
+  top: 235px;
+  position: absolute;
+  font-size: 45px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-summary-bg {
+  width: 837px;
+  height: 1394px;
+  box-sizing: border-box;
+  left: 960px;
+  top: 471px;
+  position: absolute;
+  background-color: rgba(13, 13, 13, 1);
+  border-radius: 20px;
+}
+
+.kaori-wiki-layout-13 {
+  font-family: Quintessential;
+  text-align: center;
+  font-weight: 400;
+}
+
+.kaori-wiki-kaori-alma-tarz-k {
+  height: 1268px;
+  width: 762px;
+  left: 1006px;
+  top: 597px;
+  position: absolute;
+  font-size: 26px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-layout-14 {
+  font-family: Qwitcher Grypen;
+  text-align: center;
+  font-weight: 400;
+  color: #ffedb5;
+}
+
+.kaori-wiki-kaori-miyazono {
+  width: 837px;
+  left: 959px;
+  top: 484px;
+  position: absolute;
+  font-size: 80px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-layout-15 {
+  font-family: Qwigley;
+  text-align: center;
+  font-weight: 400;
+}
+
+.kaori-wiki-elohim-essaim-el {
+  left: 138px;
+  top: 1857px;
+  position: absolute;
+  font-size: 60px;
+  line-height: normal;
+  margin: 0px;
+  height: 75px;
+  color: #ffedb5;
+}
+
+.kaori-wiki-layout-16 {
+  font-family: Quintessential;
+  text-align: center;
+  font-weight: 400;
+}
+
+.kaori-wiki-yourlie-in-april {
+  width: 837px;
+  left: 960px;
+  top: 110px;
+  position: absolute;
+  font-size: 70px;
+  line-height: normal;
+  margin: 0px;
+}
+
+.kaori-wiki-your-lie-in-april-5db-1c-49300e-8d-1x {
+  width: 430px;
+  height: 166px;
+  left: 1163px;
+  top: -4px;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/a1b4f62ccaeb916bec4e46b96fedd5b2bf6d1cba.webp)
+    center / cover;
+}
+
+.kaori-wiki-pngwing-4x {
+  rotate: -5.56deg;
+  transform-origin: top left;
+  width: 1065px;
+  height: 622px;
+  left: -175.63px;
+  top: -31.94px;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/acf98c4b34fbe70e58eb426cde6ddc8ed7c64b1d.webp)
+    center / cover;
+}
+
+.kaori-wiki-pngwing-5x {
+  rotate: -5.56deg;
+  transform-origin: top left;
+  width: 1065px;
+  height: 622px;
+  left: -175.63px;
+  top: -38.94px;
+  position: absolute;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/acf98c4b34fbe70e58eb426cde6ddc8ed7c64b1d.webp)
+    center / cover;
+}

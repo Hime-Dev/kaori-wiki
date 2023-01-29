@@ -1,0 +1,11 @@
+.centered-parent {
+  display: grid;
+}
+
+.centered-child {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  grid-row-start: 1;
+  grid-column-start: 1;
+}
