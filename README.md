@@ -1,9 +1,3 @@
-   <style>
-      hr {
-        border-top: 5px solid #095484;
-      }
-    </style>
-
 <hr />
 
 <p align="center">
