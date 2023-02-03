@@ -1,6 +1,4 @@
-<div style="background-color: #570a64;border-radius: 5px;font-size: 10px;">
-<hr></hr>
-</div>
+<span style="background-color: #570a64;border-radius: 5px;font-size: 10px;">test</span>
 
 
 <p align="center">
